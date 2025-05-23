@@ -7,3 +7,6 @@ Slides are provided in the following formats:
 - [Single-file HTML page](https://cxiao.net/2025-02-28-reconstructing-rust-types-re-verse-2025/slides-single-page). If you would like to use the presentation slides as a reference, this is the most comfortable format.
 - [PDF](slides/Reconstructing%20Rust%20Types%20%2D%20A%20Practical%20Guide%20for%20Reverse%20Engineers%20%2D%20Cindy%20Xiao%20%2D%20RE%2Dverse%202025%20%2D%20PDF%20Slides.pdf).
 - [Single-file HTML presentation](slides/Reconstructing%20Rust%20Types%20%2D%20A%20Practical%20Guide%20for%20Reverse%20Engineers%20%2D%20Cindy%20Xiao%20%2D%20RE%2Dverse%202025%20%2D%20HTML%20Presentation.html).
+
+[![Preview of the single-page HTML version of the RE//verse 2025 talk slides](slides/slides-single-page-preview.png)](https://cxiao.net/2025-02-28-reconstructing-rust-types-re-verse-2025/slides-single-page)
+
